@@ -1,0 +1,17 @@
+﻿# Java / Maven build output
+target/
+*.class
+
+# TestNG / reports
+test-output/
+surefire-reports/
+*.log
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
